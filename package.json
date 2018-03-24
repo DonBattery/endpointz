@@ -1,0 +1,17 @@
+{
+  "name": "ubicity",
+  "version": "1.0.0",
+  "description": "test server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miki",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "huli-heartbeat": "^1.0.4"
+  }
+}
