@@ -1,0 +1,40 @@
+[33m[nodemon] 1.17.2[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node server.js`[39m
+2018.3.25 22:52:49 - Test Server listening on PORT 7373
+2018.3.25 22:53:30 - Request from: localhost GET /
+2018.3.25 22:53:37 - Request from: localhost GET /heartbeat
+[33m[nodemon] 1.17.2[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node server.js`[39m
+2018.3.25 22:54:45 - Test Server listening on PORT 7373
+2018.3.25 22:54:53 - Request from: localhost GET /heartbeat
+2018.3.25 22:54:57 - Request from: localhost GET /a
+2018.3.25 22:55:0 - Request from: localhost GET /
+[33m[nodemon] 1.17.2[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node server.js`[39m
+2018.3.25 23:3:23 - Test Server listening on PORT 7373
+[33m[nodemon] 1.17.2[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node server.js`[39m
+2018.3.26 0:5:35 - Test Server listening on PORT 9292
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[33m[nodemon] 1.17.2[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node server.js`[39m
+2018.3.26 0:7:12 - Test Server listening on PORT 5934
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[33m[nodemon] 1.17.2[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node server.js`[39m
+2018.3.26 0:11:52 - Test Server listening on PORT 5934
+2018.3.26 0:12:24 - Request from: localhost GET /
+2018.3.26 0:12:24 - Request from: localhost GET /favicon.ico
+2018.3.26 0:12:29 - Request from: localhost GET /heartbeat

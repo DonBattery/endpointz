@@ -55,6 +55,16 @@ function askDB(dbCon, query, onLoad, onError) {
   });
 }
 
+function startMessage(serverName, PORT) {
+  serverLog(`${serverName} Server listening on PORT ${PORT}`);
+}
+
 module.exports = {
-  isNumeric, formatDate, serverLog, getIPaddress, initDB, askDB,
+  isNumeric, 
+  formatDate, 
+  serverLog, 
+  getIPaddress, 
+  initDB, 
+  askDB, 
+  startMessage,
 };
