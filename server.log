@@ -38,3 +38,22 @@
 2018.3.26 0:12:24 - Request from: localhost GET /
 2018.3.26 0:12:24 - Request from: localhost GET /favicon.ico
 2018.3.26 0:12:29 - Request from: localhost GET /heartbeat
+[33m[nodemon] 1.15.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node server.js`[39m
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
+[33m[nodemon] 1.15.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node server.js`[39m
+2018.3.26 15:1:25 - Test Server listening on PORT 9292
+[33m[nodemon] 1.15.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node server.js`[39m
+2018.3.26 15:2:42 - Test Server listening on PORT 9292
+2018.3.26 15:2:57 - Request from: localhost GET /
+2018.3.26 15:2:57 - Request from: localhost GET /favicon.ico
+2018.3.26 15:2:57 - Request from: localhost GET /favicon.ico
+2018.3.26 15:3:3 - Request from: localhost GET /heartbeat

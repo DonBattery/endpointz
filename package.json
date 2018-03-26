@@ -12,6 +12,7 @@
     "express": "^4.16.3"
   },
   "devDependencies": {
-    "huli-heartbeat": "^1.0.4"
+    "huli-heartbeat": "^1.0.4",
+    "tape": "^4.9.0"
   }
 }
