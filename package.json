@@ -1,18 +1,26 @@
 {
-  "name": "ubicity",
+  "name": "endpointz",
   "version": "1.0.0",
-  "description": "test server",
-  "main": "server.js",
+  "description": "DonBattery's Express tool collection",
+  "main": "endpointz.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Miki",
-  "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.3"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DonBattery/endpointz.git"
   },
-  "devDependencies": {
-    "huli-heartbeat": "^1.0.4",
-    "tape": "^4.9.0"
-  }
+  "keywords": [
+    "Express",
+    "log",
+    "node.js",
+    "server",
+    "tool"
+  ],
+  "author": "DonBattery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DonBattery/endpointz/issues"
+  },
+  "homepage": "https://github.com/DonBattery/endpointz#readme"
 }
