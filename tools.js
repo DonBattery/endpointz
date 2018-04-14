@@ -27,7 +27,7 @@ function getIPaddress(inputString) {
   let i = 0;
   let foundStart = false;
   while (i < inputString.length) {
-    if (this.isNumeric(inputString[i]) || foundStart) {
+    if (isNumeric(inputString[i]) || foundStart) {
       foundStart = true;
       temp += inputString[i];
     }
