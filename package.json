@@ -1,6 +1,6 @@
 {
   "name": "endpointz",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "DonBattery's Express tool collection",
   "main": "endpointz.js",
   "scripts": {
